@@ -706,7 +706,7 @@ Possible future improvements include:
 
 ## Author
 
-**Amir Honardoust**
+**Asish Sharma**
 
 GitHub: [@ashishgit4](https://github.com/ashishgit4)
 
